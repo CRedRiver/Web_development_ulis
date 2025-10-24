@@ -1,0 +1,11 @@
+.personal-activity {
+    margin-top: 20%;
+    display: grid;
+    grid-template-columns: 2fr 3fr 1fr;
+    gap: 20px;
+    width: 100%;
+}
+
+.left-side-bar {
+    text-align: center;
+}
